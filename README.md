@@ -2,7 +2,7 @@
 
 # Hi, I'm Shawon Shovon 👋
 
-**Cloud & AI Agent Infrastructure Engineer** · Founder & CEO, **Cyberspace Work** · Dhaka, Bangladesh 🇧🇩
+**Cloud & AI Agent Infrastructure Engineer** · Founder & CEO, **Cyberspace Work Ltd** 🇬🇧 · UK-based company · Dhaka, Bangladesh 🇧🇩
 
 I don't just learn cloud tools — I design, deploy, secure, and run production systems with them:
 edge platforms on Cloudflare, self-hosted infrastructure on Linux servers, and multi-agent AI
@@ -67,7 +67,7 @@ systems that do real work every day.
 
 - 🌐 Portfolio: [shawon.cyberspacework.com](https://shawon.cyberspacework.com)
 - 💼 Fiverr: **@ameliasofi** — private cloud, SMTP servers, self-hosted VPN, multi-agent architecture
-- 🏢 Company: **Cyberspace Work** — AI-powered productivity systems, automation workflows, and digital products
+- 🏢 Company: **Cyberspace Work Ltd** — a UK-based limited company building AI-powered productivity systems, automation workflows, and digital products for clients worldwide
 
 If you need cloud infrastructure that actually ships — or an AI agent system that survives
 contact with production — that's exactly what I build.
